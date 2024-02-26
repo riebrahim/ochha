@@ -1116,6 +1116,7 @@ h3 {
   -ms-justify-content: flex-end;
   justify-content: flex-end;
   -ms-flex-pack: flex-end;
+  padding-top: 15px;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -1166,6 +1167,7 @@ h3 {
   /* line 92, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
   .header-area .main-header-area .buy_tkt .book_btn {
     margin-left: 0;
+    margin-top: 15px;
   }
 }
 
@@ -1174,6 +1176,7 @@ h3 {
   /* line 92, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
   .header-area .main-header-area .buy_tkt .book_btn {
     margin-left: 0;
+    margin-top: 15px;
   }
 }
 
