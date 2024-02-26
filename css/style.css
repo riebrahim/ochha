@@ -199,8 +199,8 @@ h3 {
 
 /* line 136, ../../Arafath/CL/December/236. Event-02/HTML/scss/theme-default.scss */
 .black_bg {
-  background-image: url(../img/banner/banner7.jpg);
-  /*background: #000000;*/
+  /*background-image: url(../img/banner/banner7.jpg);*/
+  background: #000000;
 }
 
 /* line 139, ../../Arafath/CL/December/236. Event-02/HTML/scss/theme-default.scss */
@@ -1562,7 +1562,7 @@ h3 {
 
   /* line 10, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: auto;
+    /*height: auto;*/
   }
 }
 
@@ -1669,7 +1669,7 @@ h3 {
 
   /* line 65, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
   .slider_area .single_slider .slider_text h3 {
-    font-size: 30px;
+    font-size: 45px;
     line-height: 1.2;
     margin: 20px 0;
   }
