@@ -84,7 +84,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   color: #001D38;
 }
 
@@ -502,7 +502,7 @@ h3 {
   color: #ff5e13;
   display: inline-block;
   padding: 12px 44px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   font-weight: 400;
   border: 0;
@@ -537,7 +537,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 14px 35px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   font-weight: 500;
   border: 0;
@@ -579,7 +579,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 13px 27px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   font-weight: 600;
   border: 0;
@@ -625,7 +625,7 @@ h3 {
   color: #fff !important;
   display: inline-block;
   padding: 14px 47px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   font-weight: 500;
   border: 0;
@@ -668,7 +668,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 18px 24px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   font-weight: 600;
   border: 0;
@@ -821,7 +821,7 @@ h3 {
   font-size: 30px;
   font-weight: 400;
   color: #ff5e13;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   margin-bottom: 0;
 }
 
@@ -1183,7 +1183,7 @@ h3 {
 /* line 100, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
 .header-area .main-header-area .buy_tkt .book_btn a {
   background: #ff5e13;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   padding: 12px 46px;
   font-size: 16px;
   font-weight: 400;
@@ -1246,7 +1246,7 @@ h3 {
   font-weight: 400;
   display: inline-block;
   padding: 30px 0 30px 0;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   position: relative;
   text-transform: uppercase;
 }
@@ -1648,7 +1648,7 @@ h3 {
   font-size: 30px;
   font-weight: 400;
   color: #ffffff;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 @media (max-width: 767px) {
@@ -1704,7 +1704,7 @@ h3 {
   color: #FFF;
   margin-bottom: 34px;
   margin-top: 10px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -2103,7 +2103,7 @@ h3 {
 
 /* line 48, ../../Arafath/CL/December/236. Event-02/HTML/scss/_about.scss */
 .about_area .about_info h4 {
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 30px;
   font-weight: 400;
   color: #ff5e13;
@@ -2234,12 +2234,12 @@ h3 {
   font-weight: 400;
   color: #FFFFFF;
   text-transform: uppercase;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 /* line 69, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_area .single_bradcam .bradcam_text h3 {
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 80px;
   text-transform: capitalize;
   font-weight: 400;
@@ -2374,7 +2374,7 @@ h3 {
 /* line 30, ../../Arafath/CL/December/236. Event-02/HTML/scss/_performer.scss */
 .performar_area .single_performer .performer_heading h4 {
   font-size: 30px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   color: #fff;
   font-weight: 400;
   margin-bottom: 14px;
@@ -2654,7 +2654,7 @@ h3 {
 .program_details_area .program_detail_wrap .single_propram .porgram_top span {
   color: #ff5e13;
   font-size: 30px;
-  font-family: "Anton", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   display: block;
   margin-bottom: 8px;
 }
